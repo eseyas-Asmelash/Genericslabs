@@ -1,0 +1,6 @@
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\bin\Release\GenericScale.exe.config
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\bin\Release\GenericScale.exe
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\bin\Release\GenericScale.pdb
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\obj\Release\GenericScale.exe
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\obj\Release\GenericScale.pdb
+C:\Users\aies2\OneDrive\Documents\CsharpEx\Generics\GenericLabs\GenericScale\obj\Release\GenericScale.csprojAssemblyReference.cache
